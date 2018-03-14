@@ -1,0 +1,66 @@
+#ruta{
+			width: 200px;
+			height: 200px;
+			border:2px solid;
+			overflow: hidden;
+			margin: auto;
+		}
+		#bilder{
+			display: flex;
+			position: relative;
+			right: 400px;
+			margin: auto;
+		}
+		#punkter{
+			width:200px;
+			display: flex;
+			position: relative;
+			margin: auto;
+		}
+		#sidleds{
+			width: 205px;
+			display: flex;
+			position: relative;
+			margin: auto;
+			
+		}
+		#auto{
+			display: none;
+		}
+		#right{
+			position: absolute;
+			top: 75px;
+			left: 50%;
+			margin-left: 80px; 
+			display: none;
+		}
+		#left{
+			position: absolute;
+			top: 75px;
+			left: 50%;
+			margin-left: -95px;
+			display: none;
+		}
+		#nummer{
+
+			position: absolute;
+			top: 20px;
+			left: 50%;
+			margin-left: -95px;
+			display: none;
+		}
+		#första{
+			display: none;
+		}
+		#andra{
+			display: none;
+		}
+		#tredje{
+			display: none;
+		}
+		hr{
+			display: none;
+		}
+		#js{
+			text-align: center;
+		}
